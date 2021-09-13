@@ -3,3 +3,5 @@
 *.pt
 /output/*
 .ipynb_checkpoints/*
+nohup.out
+jupyter.log
