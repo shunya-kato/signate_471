@@ -6,3 +6,4 @@
 nohup.out
 jupyter.log
 /vscode/*
+/graph/*
